@@ -1,4 +1,3 @@
-package LISTA1_IFMG;
 import java.util.Scanner;
 
 // IFMG - Campus Sabará
