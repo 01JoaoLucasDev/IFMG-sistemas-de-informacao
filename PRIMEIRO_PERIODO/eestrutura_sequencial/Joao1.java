@@ -26,7 +26,8 @@ public class Joao1 {
     } else if (idade > 40) {
             System.out.println("categoria: senior");
 
-        
+    } else {
+        System.out.println("Idade Invalida")
     }
     
    }
