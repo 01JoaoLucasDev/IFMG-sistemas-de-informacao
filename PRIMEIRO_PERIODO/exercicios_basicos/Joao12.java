@@ -1,4 +1,4 @@
-
+package exercicios_basicos;
 import java.util.Scanner;
 
 // IFMG - Campus Sabará

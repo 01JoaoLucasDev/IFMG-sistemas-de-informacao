@@ -1,3 +1,5 @@
+
+package estrutura_sequencial;
 import java.util.Scanner;
 
 public class Joao5 {

@@ -1,3 +1,5 @@
+package exercicios_basicos;
+
 // IFMG - Campus Sabará
 // EXERCICIO 10 - João Lucas da Costa Bernardo
 public class Joao10 {

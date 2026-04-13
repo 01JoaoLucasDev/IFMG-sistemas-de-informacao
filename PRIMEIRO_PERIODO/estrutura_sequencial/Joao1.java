@@ -1,3 +1,4 @@
+package estrutura_sequencial;
 import java.util.Scanner;
 
 // IFMG - Campus Sabará

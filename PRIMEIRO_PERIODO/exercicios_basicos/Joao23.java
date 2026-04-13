@@ -1,3 +1,4 @@
+package exercicios_basicos;
 
 // IFMG - Campus Sabará
 // EXERCICIO 23 - João Lucas da Costa Bernardo
