@@ -1,7 +1,7 @@
+import java.util.Scanner;
+
 // IFMG - Campus Sabará
 // EXERCICIO 1 - João Lucas da Costa Bernardo
-
-import java.util.Scanner;
 public class Joao1 {
     public static void main(String[] args) {
         
@@ -27,7 +27,7 @@ public class Joao1 {
             System.out.println("categoria: senior");
 
     } else {
-        System.out.println("Idade Invalida")
+        System.out.println("Idade Invalida");
     }
     
    }

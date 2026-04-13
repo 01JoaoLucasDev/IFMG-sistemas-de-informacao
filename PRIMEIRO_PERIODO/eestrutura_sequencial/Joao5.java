@@ -5,7 +5,7 @@ public class Joao5 {
      System.out.println("Digite uma letra:") ;
      Scanner sc = new Scanner(System.in);
         String letra = sc.nextLine();
-        if (Letra == "a" || Letra -- "A" || Letra == "e" || Letra == "E" || Letra == "i" || Letra == "I" || Letra == "o" || Letra == "O" || Letra == "u" || Letra == "U") {
+        if (letra == "a" || letra == "A" || letra == "e" || letra == "E" || letra == "i" || letra == "I" || letra == "o" || letra == "O" || letra == "u" || letra == "U") {
             System.out.println("A letra é uma vogal");
         } else {
             System.out.println("A letra é uma consoante");

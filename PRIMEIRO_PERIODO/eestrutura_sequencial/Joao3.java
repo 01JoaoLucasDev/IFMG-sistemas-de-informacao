@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-puclic class joao3 {
-    psvm(String[] args) {
-        Scanner sc = new Scanner(Systen.in);
+public class Joao3 {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Digite o valor de fabrica do carro: ");
         double vrCarro = sc.nextDouble();
@@ -13,7 +13,7 @@ puclic class joao3 {
             System.out.println("o valor a ser pago referente ao carro é: " + valorFinal1);
 
         } else if (vrCarro > 28000.1 && vrCarro <= 450000) {
-            double distribuidor = (vrcarro / 100) * 10;
+            double distribuidor = (vrCarro / 100) * 10;
             double vrFinal2 = distribuidor + ((vrCarro / 100) / 15);
             System.out.println("o valor a ser pago referente ao carro é: " + vrFinal2);
 
@@ -26,4 +26,5 @@ puclic class joao3 {
             System.out.println("Valor invalido");
         }
     
+}
 }

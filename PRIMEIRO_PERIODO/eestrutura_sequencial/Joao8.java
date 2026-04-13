@@ -2,10 +2,11 @@ import java.util.Scanner;
 
 public class Joao8 {
     public static void main (String[] args) {
+        Scanner sc = new Scanner(System.in);
         System.out.println("digite o valor de x para calcular a função: ");
         double x = sc.nextDouble();
 
-    } if (x <= 1) {
+    if (x <= 1) {
         x = 1;
         System.out.println("O valor de f(x) é: " + x);
 
@@ -24,4 +25,5 @@ public class Joao8 {
     } else {
         System.out.println("Valor invalido");
     }
+}
 }

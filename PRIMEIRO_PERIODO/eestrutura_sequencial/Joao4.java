@@ -2,12 +2,12 @@ import java.util.Scanner;
 
 public class Joao4 {
     public static void main (String[] args) {
-        System.out.println("Digite um numero:")
-        Scaanner sc = new Scanner(Systen.in);
+        System.out.println("Digite um numero:");
+        Scanner sc = new Scanner(System.in);
 
-        System.out.println("Veja as contas que a calculadora pode fazer: ")
+        System.out.println("Veja as contas que a calculadora pode fazer: ");
 
-        systrem.out.print("1 - Soma \n2 - Subtração \n3 - Multiplicação \n4 - Divisão \n5 - \n8 - Sair");
+        System.out.print("1 - Soma \n2 - Subtração \n3 - Multiplicação \n4 - Divisão \n5 - \n8 - Sair");
         int selectNum = sc.nextInt();
 
         System.out.println("Agora que voce viu as conbtas que a calculadora pode fazer, digite o primeiro numero: ");

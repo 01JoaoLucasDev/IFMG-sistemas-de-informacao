@@ -1,9 +1,10 @@
 import java.util.Scanner;
 
 public class Joao6 {
-    public static void main args (String[] args) {
-        system.out.printlm("Informe o seu salario:");
-        double salario = sc.mextDiouble();
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Informe o seu salario:");
+        double salario = sc.nextDouble();
 
         if (salario < 700) {
             double aumento = (salario / 100) * 30;
