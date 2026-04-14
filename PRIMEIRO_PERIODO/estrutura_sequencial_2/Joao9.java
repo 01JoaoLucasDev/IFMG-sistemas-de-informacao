@@ -14,7 +14,7 @@ public class Joao9 {
     int b = sc.nextInt();
 
     System.out.println("Digite o ultimo numero: ");
-    int c = sc.nextInt()
+    int c = sc.nextInt();
     
 }
 }
