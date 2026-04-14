@@ -1,6 +1,8 @@
 package estrutura_sequencial;
 import java.util.Scanner;
 
+// IFMG - Campus Sabará
+// EXERCICIO 4- João Lucas da Costa Bernardo
 public class Joao4 {
     public static void main (String[] args) {
         Scanner sc = new Scanner(System.in);
