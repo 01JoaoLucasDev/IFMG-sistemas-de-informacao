@@ -8,10 +8,10 @@ public class Joao5 {
      System.out.println("Digite uma letra:") ;
      Scanner sc = new Scanner(System.in);
 
-        String letra = sc.nextLine().charAt(0);
-        letra = Character.toUpperCase();
+        char letra = sc.nextLine().charAt(0);
+        letra = Character.toUpperCase(letra);
         
-        if (letra.equals("a") || Letra.equals("e") || letra.equals(i) || letra.equals(0) || letra.equals(u)) {
+        if (letra == 'A' || letra == 'E'|| letra == 'I' || letra == 'O' || letra == 'U') {
             System.out.println("A letra é uma vogal");
         } else {
             System.out.println("A letra é uma consoante");
