@@ -1,0 +1,10 @@
+package estrutura_de_repeticao;
+
+public class Joao2 {
+    public static void main(String[] args) {
+        for (int i = 0; i <= 50; i = i + 2) {
+            System.out.println(i);
+        }
+    }
+    
+}
